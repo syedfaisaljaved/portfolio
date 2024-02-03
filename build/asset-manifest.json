@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.3a4b90ec.css",
-    "main.js": "/portfolio/static/js/main.2cfc24df.js",
+    "main.js": "/portfolio/static/js/main.e61ecf6b.js",
     "static/css/136.169c4389.chunk.css": "/portfolio/static/css/136.169c4389.chunk.css",
     "static/js/136.0092334d.chunk.js": "/portfolio/static/js/136.0092334d.chunk.js",
     "static/css/380.bc6f4c18.chunk.css": "/portfolio/static/css/380.bc6f4c18.chunk.css",
@@ -12,20 +12,17 @@
     "static/media/hamdard.png": "/portfolio/static/media/hamdard.9e481bfa2178160ce52e.png",
     "static/media/uofr.png": "/portfolio/static/media/uofr.10d06449aa8035194ec2.png",
     "static/media/hiddencameraapp.png": "/portfolio/static/media/hiddencameraapp.30f4d349f1f1b9bf0617.png",
-    "static/media/ehealth.png": "/portfolio/static/media/ehealth.b533629ba31e5095342b.png",
     "static/media/manOnTable.svg": "/portfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/ehealth.png": "/portfolio/static/media/ehealth.808463b69ad723641fae.png",
     "static/media/ibm.png": "/portfolio/static/media/ibm.d54349e256cc43c939b1.png",
     "static/media/contactMailDark.svg": "/portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/databricks.png": "/portfolio/static/media/databricks.475326999b1528107362.png",
     "static/media/developerActivity.svg": "/portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
-    "static/media/ufaber.png": "/portfolio/static/media/ufaber.db8b148939b9a9390d25.png",
     "static/media/skill.svg": "/portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
-    "static/media/saayaHealthLogo.webp": "/portfolio/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
-    "static/media/nextuLogo.webp": "/portfolio/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
     "index.html": "/portfolio/index.html",
     "static/media/talksCardBack.svg": "/portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.3a4b90ec.css.map": "/portfolio/static/css/main.3a4b90ec.css.map",
-    "main.2cfc24df.js.map": "/portfolio/static/js/main.2cfc24df.js.map",
+    "main.e61ecf6b.js.map": "/portfolio/static/js/main.e61ecf6b.js.map",
     "136.169c4389.chunk.css.map": "/portfolio/static/css/136.169c4389.chunk.css.map",
     "136.0092334d.chunk.js.map": "/portfolio/static/js/136.0092334d.chunk.js.map",
     "380.bc6f4c18.chunk.css.map": "/portfolio/static/css/380.bc6f4c18.chunk.css.map",
@@ -33,6 +30,6 @@
   },
   "entrypoints": [
     "static/css/main.3a4b90ec.css",
-    "static/js/main.2cfc24df.js"
+    "static/js/main.e61ecf6b.js"
   ]
 }
