@@ -59,48 +59,48 @@ const skillsSection = {
   /* Make Sure to include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
 
-  softwareSkills: [
-    {
-      skillName: "Python",
-      fontAwesomeClassname: "fab fa-python"
-    },
-    {
-      skillName: "SQL",
-      fontAwesomeClassname: "fab fa-database"
-    },
-    {
-      skillName: "C/C++",
-      fontAwesomeClassname: "fab fa-c"
-    },
-    {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
-    },
-    {
-      skillName: "Machine Learning",
-      fontAwesomeClassname: "fab fa-head-side-gear"
-    },
-    {
-      skillName: "Artifical Intelligence",
-      fontAwesomeClassname: "fab fa-microchip-ai"
-    },
-    {
-      skillName: "Data Analysis",
-      fontAwesomeClassname: "fab fa-magnifying-glass-chart"
-    },
-    {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
-    },
-    {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
-    },
-    {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
-    }
-  ],
+softwareSkills: [
+  {
+    skillName: "Python",
+    fontAwesomeClassname: "fab fa-python"
+  },
+  {
+    skillName: "SQL",
+    fontAwesomeClassname: "fas fa-database"
+  },
+  {
+    skillName: "C/C++",
+    fontAwesomeClassname: "fas fa-code"
+  },
+  {
+    skillName: "JavaScript",
+    fontAwesomeClassname: "fab fa-js"
+  },
+  {
+    skillName: "Machine Learning",
+    fontAwesomeClassname: "fas fa-cogs"
+  },
+  {
+    skillName: "Artificial Intelligence",
+    fontAwesomeClassname: "fas fa-microchip"
+  },
+  {
+    skillName: "Data Analysis",
+    fontAwesomeClassname: "fas fa-search"
+  },
+  {
+    skillName: "npm",
+    fontAwesomeClassname: "fab fa-npm"
+  },
+  {
+    skillName: "AWS",
+    fontAwesomeClassname: "fab fa-aws"
+  },
+  {
+    skillName: "Firebase",
+    fontAwesomeClassname: "fas fa-fire"
+  }
+],
   display: true // Set false to hide this section, defaults to true
 };
 
@@ -192,8 +192,7 @@ const workExperiences = {
   ]
 };
 
-/* Your Open Source Section to View Your Github Pinned Projects
-To know how to get github key look at readme.md */
+// Your Open Source Section to View Your Github Pinned Projects
 
 const openSource = {
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
@@ -204,31 +203,9 @@ const openSource = {
 
 const bigProjects = {
   title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle: "",
   projects: [
-    {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
-        }
-        //  you can add extra buttons here.
-      ]
-    },
-    {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "http://nextu.se/"
-        }
-      ]
-    }
+    
   ],
   display: false // Set false to hide this section, defaults to true
 };
@@ -272,7 +249,7 @@ const achievementSection = {
 
     {
       title: "Applied Data Science for Data Analysts",
-      subtitle: "Completed Certifcation from Coursera",
+      subtitle: "Completed Certifcation offered by Databricks from Cousera learning platform.",
       image: require("./assets/images/databricks.png"),
       imageAlt: "databricks",
       footerLink: [
